@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Student 1",
+    "allocated": false,
+    "college": null,
+    "course": null
+  },
+  {
+    "name": "Student 2",
+    "allocated": true,
+    "college": "College 23",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 3",
+    "allocated": true,
+    "college": "College 22",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 4",
+    "allocated": true,
+    "college": "College 6",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 5",
+    "allocated": true,
+    "college": "College 25",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 6",
+    "allocated": true,
+    "college": "College 46",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 7",
+    "allocated": true,
+    "college": "College 6",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 8",
+    "allocated": true,
+    "college": "College 9",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 9",
+    "allocated": true,
+    "college": "College 14",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 10",
+    "allocated": true,
+    "college": "College 45",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 11",
+    "allocated": true,
+    "college": "College 38",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 12",
+    "allocated": true,
+    "college": "College 21",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 13",
+    "allocated": true,
+    "college": "College 31",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 14",
+    "allocated": true,
+    "college": "College 30",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 15",
+    "allocated": true,
+    "college": "College 35",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 16",
+    "allocated": true,
+    "college": "College 16",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 17",
+    "allocated": true,
+    "college": "College 47",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 18",
+    "allocated": true,
+    "college": "College 6",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 19",
+    "allocated": true,
+    "college": "College 30",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 20",
+    "allocated": true,
+    "college": "College 19",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 21",
+    "allocated": true,
+    "college": "College 13",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 22",
+    "allocated": true,
+    "college": "College 28",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 23",
+    "allocated": true,
+    "college": "College 28",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 24",
+    "allocated": true,
+    "college": "College 45",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 25",
+    "allocated": true,
+    "college": "College 26",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 26",
+    "allocated": true,
+    "college": "College 17",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 27",
+    "allocated": true,
+    "college": "College 32",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 28",
+    "allocated": true,
+    "college": "College 44",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 29",
+    "allocated": true,
+    "college": "College 48",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 30",
+    "allocated": true,
+    "college": "College 36",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 31",
+    "allocated": true,
+    "college": "College 2",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 32",
+    "allocated": true,
+    "college": "College 46",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 33",
+    "allocated": true,
+    "college": "College 26",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 34",
+    "allocated": true,
+    "college": "College 46",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 35",
+    "allocated": true,
+    "college": "College 3",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 36",
+    "allocated": true,
+    "college": "College 22",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 37",
+    "allocated": true,
+    "college": "College 41",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 38",
+    "allocated": true,
+    "college": "College 4",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 39",
+    "allocated": true,
+    "college": "College 23",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 40",
+    "allocated": true,
+    "college": "College 5",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 41",
+    "allocated": true,
+    "college": "College 49",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 42",
+    "allocated": true,
+    "college": "College 15",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 43",
+    "allocated": true,
+    "college": "College 36",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 44",
+    "allocated": true,
+    "college": "College 47",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 45",
+    "allocated": true,
+    "college": "College 12",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 46",
+    "allocated": true,
+    "college": "College 4",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 47",
+    "allocated": true,
+    "college": "College 36",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 48",
+    "allocated": true,
+    "college": "College 18",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 49",
+    "allocated": true,
+    "college": "College 34",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 50",
+    "allocated": true,
+    "college": "College 39",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 51",
+    "allocated": true,
+    "college": "College 23",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 52",
+    "allocated": true,
+    "college": "College 45",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 53",
+    "allocated": true,
+    "college": "College 38",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 54",
+    "allocated": true,
+    "college": "College 46",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 55",
+    "allocated": true,
+    "college": "College 13",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 56",
+    "allocated": true,
+    "college": "College 19",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 57",
+    "allocated": true,
+    "college": "College 48",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 58",
+    "allocated": true,
+    "college": "College 12",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 59",
+    "allocated": true,
+    "college": "College 29",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 60",
+    "allocated": true,
+    "college": "College 3",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 61",
+    "allocated": true,
+    "college": "College 40",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 62",
+    "allocated": true,
+    "college": "College 15",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 63",
+    "allocated": true,
+    "college": "College 41",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 64",
+    "allocated": true,
+    "college": "College 47",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 65",
+    "allocated": true,
+    "college": "College 29",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 66",
+    "allocated": true,
+    "college": "College 9",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 67",
+    "allocated": true,
+    "college": "College 4",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 68",
+    "allocated": true,
+    "college": "College 49",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 69",
+    "allocated": true,
+    "college": "College 7",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 70",
+    "allocated": true,
+    "college": "College 11",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 71",
+    "allocated": true,
+    "college": "College 3",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 72",
+    "allocated": true,
+    "college": "College 23",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 73",
+    "allocated": true,
+    "college": "College 11",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 74",
+    "allocated": true,
+    "college": "College 4",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 75",
+    "allocated": true,
+    "college": "College 34",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 76",
+    "allocated": true,
+    "college": "College 38",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 77",
+    "allocated": true,
+    "college": "College 26",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 78",
+    "allocated": true,
+    "college": "College 45",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 79",
+    "allocated": true,
+    "college": "College 9",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 80",
+    "allocated": true,
+    "college": "College 31",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 81",
+    "allocated": true,
+    "college": "College 2",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 82",
+    "allocated": true,
+    "college": "College 5",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 83",
+    "allocated": true,
+    "college": "College 24",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 84",
+    "allocated": true,
+    "college": "College 21",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 85",
+    "allocated": true,
+    "college": "College 40",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 86",
+    "allocated": true,
+    "college": "College 32",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 87",
+    "allocated": true,
+    "college": "College 31",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 88",
+    "allocated": true,
+    "college": "College 48",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 89",
+    "allocated": true,
+    "college": "College 34",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 90",
+    "allocated": true,
+    "college": "College 30",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 91",
+    "allocated": true,
+    "college": "College 8",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 92",
+    "allocated": true,
+    "college": "College 23",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 93",
+    "allocated": true,
+    "college": "College 42",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 94",
+    "allocated": true,
+    "college": "College 3",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 95",
+    "allocated": true,
+    "college": "College 6",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 96",
+    "allocated": true,
+    "college": "College 29",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 97",
+    "allocated": true,
+    "college": "College 39",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 98",
+    "allocated": true,
+    "college": "College 36",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 99",
+    "allocated": true,
+    "college": "College 32",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 100",
+    "allocated": true,
+    "college": "College 24",
+    "course": "MECH"
+  }
+]
