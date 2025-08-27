@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Arun",
+    "cutoff": 195,
+    "category": "BC",
+    "preferences": [
+      { "collegeId": 1, "courseName": "CSE" },
+      { "collegeId": 2, "courseName": "CSE" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "cutoff": 180,
+    "category": "OBC",
+    "preferences": [
+      { "collegeId": 1, "courseName": "EEE" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kumar",
+    "cutoff": 175,
+    "category": "SCST",
+    "preferences": [
+      { "collegeId": 2, "courseName": "CSE" }
+    ]
+  }
+]
