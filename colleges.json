@@ -6,25 +6,25 @@
       {
         "name": "CSE",
         "seats": {
-          "BC": 10,
-          "OBC": 5,
-          "SCST": 4
+          "BC": 1,
+          "OBC": 1,
+          "SCST": 1
         }
       },
       {
         "name": "ECE",
         "seats": {
-          "BC": 9,
-          "OBC": 6,
+          "BC": 1,
+          "OBC": 1,
           "SCST": 1
         }
       },
       {
         "name": "MECH",
         "seats": {
-          "BC": 9,
-          "OBC": 9,
-          "SCST": 7
+          "BC": 1,
+          "OBC": 1,
+          "SCST": 1
         }
       }
     ]

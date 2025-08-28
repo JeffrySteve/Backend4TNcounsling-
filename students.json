@@ -6,15 +6,15 @@
     "category": "OBC",
     "preferences": [
       {
-        "collegeId": 280,
+        "collegeId": 1,
         "courseName": "CSE"
       },
       {
-        "collegeId": 260,
+        "collegeId": 1,
         "courseName": "CSE"
       },
       {
-        "collegeId": 110,
+        "collegeId": 1,
         "courseName": "CSE"
       }
     ]
@@ -26,16 +26,16 @@
     "category": "BC",
     "preferences": [
       {
-        "collegeId": 23,
-        "courseName": "CSE"
-      },
-      {
-        "collegeId": 10,
+        "collegeId": 1,
         "courseName": "ECE"
       },
       {
-        "collegeId": 6,
-        "courseName": "CSE"
+        "collegeId": 1,
+        "courseName": "ECE"
+      },
+      {
+        "collegeId": 1,
+        "courseName": "ECE"
       }
     ]
   },
@@ -46,15 +46,15 @@
     "category": "OBC",
     "preferences": [
       {
-        "collegeId": 22,
+        "collegeId": 1,
         "courseName": "ECE"
       },
       {
-        "collegeId": 13,
+        "collegeId": 1,
         "courseName": "CSE"
       },
       {
-        "collegeId": 26,
+        "collegeId": 1,
         "courseName": "ECE"
       }
     ]
@@ -66,15 +66,15 @@
     "category": "SCST",
     "preferences": [
       {
-        "collegeId": 6,
+        "collegeId": 1,
         "courseName": "MECH"
       },
       {
-        "collegeId": 26,
+        "collegeId": 1,
         "courseName": "CSE"
       },
       {
-        "collegeId": 22,
+        "collegeId": 1,
         "courseName": "MECH"
       }
     ]
@@ -86,18 +86,17 @@
     "category": "BC",
     "preferences": [
       {
-        "collegeId": 25,
+        "collegeId": 1,
         "courseName": "ECE"
       },
       {
-        "collegeId": 37,
-        "courseName": "CSE"
+        "collegeId": 1,
+        "courseName": "ECE"
       },
       {
-        "collegeId": 36,
+        "collegeId": 1,
         "courseName": "ECE"
       }
     ]
-  },
-  
+  }
 ]

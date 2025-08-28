@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Student 1",
+    "allocated": true,
+    "college": "College 1",
+    "course": "CSE"
+  },
+  {
+    "name": "Student 2",
+    "allocated": true,
+    "college": "College 1",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 3",
+    "allocated": true,
+    "college": "College 1",
+    "course": "ECE"
+  },
+  {
+    "name": "Student 4",
+    "allocated": true,
+    "college": "College 1",
+    "course": "MECH"
+  },
+  {
+    "name": "Student 5",
+    "allocated": false,
+    "college": null,
+    "course": null
+  }
+]
